@@ -1,3 +1,5 @@
+Following [this](https://reactjs.org/tutorial/tutorial.html) tutorial from React to create a Tic-Tac-Toe Game.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
